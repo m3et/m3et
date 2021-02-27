@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=raphaelior09&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=raphaelior09&redirect=true)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
