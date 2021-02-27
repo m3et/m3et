@@ -1,11 +1,10 @@
 # [![waylon walker header](https://github.com/m3et/m3et/blob/main/header.png)](https://m3et.github.io/PersonalWebsite/)
-### Hi there 👋
 
 <!--
 **m3et/m3et** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+:wave: 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,4 +16,5 @@ Here are some ideas to get you started:
 -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=raphaelior09&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=raphaelior09&redirect=true)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" theme="solarized-dark"/>
