@@ -80,5 +80,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=m3et&show_icons=true&count_private=true&hide_border=true"/>
 </a>
 <a href="https://github.com/m3et/nodejs-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m3et&repo=nodejs-blog" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3et&hide_border=true&layout=compact" />
 </a>
