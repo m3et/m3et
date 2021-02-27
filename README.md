@@ -61,24 +61,13 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=m3et&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%;hight: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=m3et&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3et&hide_border=true&layout=compact" align="left" style="width: 100%;hight: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3et&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
 
 </td></tr></table> 
 
- 
-
-
 ## Music Status 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=raphaelior09&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=raphaelior09&redirect=true)
-
-
-<a href="https://github.com/m3et/The-Maze-Of-Waze">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m3et&show_icons=true&count_private=true&hide_border=true"/>
-</a>
-<a href="https://github.com/m3et/nodejs-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3et&hide_border=true&layout=compact" />
-</a>
