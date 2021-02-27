@@ -76,9 +76,9 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=raphaelior09&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=raphaelior09&redirect=true)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m3et&repo=github-readme-stats" />
+<a href="https://github.com/m3et/The-Maze-Of-Waze">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m3et&repo=The-Maze-Of-Waze" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m3et&repo=convoychat" />
+<a href="https://github.com/m3et/nodejs-blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m3et&repo=nodejs-blog" />
 </a>
