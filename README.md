@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=raphaelior09&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=raphaelior09&redirect=true)
 
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" theme="random"/>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" theme="pinkish"/>
