@@ -77,7 +77,7 @@
 
 
 <a href="https://github.com/m3et/The-Maze-Of-Waze">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m3et&repo=The-Maze-Of-Waze" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m3et&show_icons=true&count_private=true&hide_border=true"/>
 </a>
 <a href="https://github.com/m3et/nodejs-blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m3et&repo=nodejs-blog" />
