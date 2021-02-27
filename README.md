@@ -71,5 +71,7 @@
 
 </td></tr></table>  
 
+
+## Music Status 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=raphaelior09&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=raphaelior09&redirect=true)
 
