@@ -1,3 +1,4 @@
+# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light-holiday.png)](https://waylonwalker.com)
 ### Hi there 👋
 
 <!--
@@ -15,4 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-![visitors](https://visitor-badge.glitch.me/badge?page_id=m3et)
