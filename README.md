@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=raphaelior09&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=raphaelior09&redirect=true)
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
