@@ -70,25 +70,9 @@
 </td></tr></table>  
 
 <br/>  
-
-  
-
+<br/> 
 <br/>  
-
-  
-
-<br/>  
-
-
 <br />
-
-table {
-    border-collapse: collapse;
-}
-
 
 ## Music Status 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=raphaelior09&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=raphaelior09&redirect=true)
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
