@@ -70,4 +70,4 @@
 </td></tr></table> 
 
 ## Music Status 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=raphaelior09&cover_image=true&theme=novatorem)](ttps://spotify-github-profile.kittinanx.com)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=raphaelior09&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=raphaelior09&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true)]]
