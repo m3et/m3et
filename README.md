@@ -17,9 +17,9 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [Node.js Blog](https://github.com/m3et/nodejs-blog)
-- 🌱 I’m currently learning Node Express and MongoDB
-- ❓ Ask me about Cyber Security and Java
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning LLM and Langcahin
+- ❓ Ask me about Cyber Security and Python, Big Data
 - ⚡ Fun fact: The first oranges weren’t orange
 
 <div align="center">
